@@ -25,7 +25,6 @@ class PerguntaAppState extends State<PerguntaApp> {
       'Qual é o seu animal favorito?',
     ];
 
-
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
@@ -56,3 +55,4 @@ class PerguntaApp extends StatefulWidget{
   }
 
 }
+
